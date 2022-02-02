@@ -40,3 +40,15 @@ The below table that I m going to show is the sports activities to recomend newb
 |Tennis|Attapur|$60|
 |Rugby|Jhon Grounds|$90|
 
+---
+
+### quotes
+
+---
+
+> If you can dream it, you can do it.<br>
+                                     *walt disney*
+
+> Be a Life Long Learner.<br>
+                         *Robert*
+                          
