@@ -29,3 +29,14 @@ I have found of very well known park near by **KFC**. I love to be there twice a
 
 ---
 
+#### Sports Suggestions
+
+The below table that I m going to show is the sports activities to recomend newbies 
+
+| sports | Location | Equipment cost |
+|:------:|:--------:|---------------:|
+|Badminton| CA Stadium| $50 |
+|Kho Kho| Ramnagar| $30|
+|Tennis|Attapur|$60|
+|Rugby|Jhon Grounds|$90|
+
